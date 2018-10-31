@@ -1,5 +1,4 @@
 function preload() {
-
 }
 
 // objects declaration
